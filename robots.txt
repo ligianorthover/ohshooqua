@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochiephei.blackbeans.site/sitemap.xml
